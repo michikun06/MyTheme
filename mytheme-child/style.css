@@ -1,0 +1,11 @@
+/*
+ Theme Name:   MyTheme Child
+ Template:     MyTheme
+*/
+h1 {
+  color: #FFB500;
+}
+
+.attenstion {
+  background-color: #F55E5E;
+}
